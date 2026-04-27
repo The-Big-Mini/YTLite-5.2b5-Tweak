@@ -1,0 +1,13 @@
+{
+  "packs": [
+    {
+      "name": "84b8221b4bc4130e902b01a8b97a56c696cfb606",
+      "download_urls": [
+        "https://storage.googleapis.com/visionkit/models/ocr/280560244/latin_and_telugu_script_tflite.zip"
+      ],
+      "label": "ocr_latin_and_telugu_script_tflite_zip",
+      "size": 1026518,
+      "md5_hash": "ed51f09f8700f50a162d0ba79a816af9"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "packs": [
+    {
+      "name": "772921ea3a418f5ae2a67b5212027241db7745a3",
+      "download_urls": [
+        "https://storage.googleapis.com/visionkit/models/ocr/280560244/latin_and_thai_script_tflite.zip"
+      ],
+      "label": "ocr_latin_and_thai_script_tflite_zip",
+      "size": 979321,
+      "md5_hash": "579a367e2c96ce7a4c469ccd7fea5c8f"
+    }
+  ]
+}

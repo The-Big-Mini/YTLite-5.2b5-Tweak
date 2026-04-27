@@ -1,0 +1,13 @@
+{
+  "packs": [
+    {
+      "name": "e1c1b8e0e124f79bd744dd921d973a18f4bdda12",
+      "download_urls": [
+        "https://storage.googleapis.com/visionkit/models/ocr/280560244/latin_and_devanagari_script_tflite.zip"
+      ],
+      "label": "ocr_latin_and_devanagari_script_tflite_zip",
+      "size": 746761,
+      "md5_hash": "71d6b9a62dc51c9dfd1f2d18df7c91c0"
+    }
+  ]
+}

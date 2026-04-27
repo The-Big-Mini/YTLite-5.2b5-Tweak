@@ -1,0 +1,13 @@
+{
+  "packs": [
+    {
+      "name": "c7832eeabed40fd82f6d63fb5ecc6c647d185df5",
+      "download_urls": [
+        "https://storage.googleapis.com/visionkit/models/ocr/280560244/latin_and_chinese_script_tflite.zip"
+      ],
+      "label": "ocr_latin_and_chinese_script_tflite_zip",
+      "size": 1121096,
+      "md5_hash": "33f508f9d734b1b8fba2cd1f776409cf"
+    }
+  ]
+}

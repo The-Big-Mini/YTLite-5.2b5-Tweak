@@ -1,0 +1,13 @@
+{
+  "packs": [
+    {
+      "name": "bf3dd59d7f467b1f42eb8f48a28c6db9b72c63ed",
+      "download_urls": [
+        "https://www.gstatic.com/lens/models/GoogleOCR/lots_multiscript_v2/google_ocr_lots_multiscript_v2.zip"
+      ],
+      "label": "google_ocr_lots_multiscript_v2_zip",
+      "size": 15018339,
+      "md5_hash": "b4dce99c21d58cbcdb1c4574f77cfa43"
+    }
+  ]
+}

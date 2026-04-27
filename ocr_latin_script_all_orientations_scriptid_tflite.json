@@ -1,0 +1,13 @@
+{
+  "packs": [
+    {
+      "name": "4be151c246231d853fec1dd510f1fbd6327d67bf",
+      "download_urls": [
+        "https://storage.googleapis.com/visionkit/models/ocr/280560244/latin_script_all_orientations_scriptid_tflite.zip"
+      ],
+      "label": "ocr_latin_script_all_orientations_scriptid_tflite_zip",
+      "size": 431507,
+      "md5_hash": "d6a3908f243840e9af299e845f8c6967"
+    }
+  ]
+}

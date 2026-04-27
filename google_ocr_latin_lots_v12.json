@@ -1,0 +1,13 @@
+{
+  "packs": [
+    {
+      "name": "64f8dd187be9d7874f200e43ee030f9b0951223d",
+      "download_urls": [
+        "https://www.gstatic.com/lens/models/GoogleOCR/google_ocr_latin_lots_v12/google_ocr_latin_lots_v12.zip"
+      ],
+      "label": "google_ocr_latin_lots_v12_zip",
+      "size": 2550759,
+      "md5_hash": "d91ee6b0b5b4cfa26d10da35e4b4ba00"
+    }
+  ]
+}
